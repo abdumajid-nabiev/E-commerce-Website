@@ -1,0 +1,1 @@
+Frontend E-Commerce Website: "A user-friendly e-commerce website designed using React. This project focuses solely on the frontend, featuring an intuitive interface for browsing products, adding items to the cart, and managing user accounts. The design is responsive and optimized for a seamless shopping experience across various devices."
